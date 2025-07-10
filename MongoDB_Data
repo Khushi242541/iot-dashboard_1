@@ -1,6 +1,6 @@
 ## MONGO DB SAMPLE DATA ##
 
-#######################################
+########################################
 * Item List (Collection)
 
 code: "WFCVGHCHGV71/0.652"
@@ -12,14 +12,14 @@ value: "50"
 code: "WFCVGHCHGV71/0.652"
 value: 6.96001
 
-#######################################
+#########################################
 * Machine_data(JSON) (Collection)
 
 device: "d8:3a:dd:d9:bc:60"
 ts: 1737182343
 data: Object
 
-#######################################
+#########################################
 * graphdata (Collection)
 
 run_time: 34
@@ -27,7 +27,7 @@ process_downtime: 5
 maintenance_dt: 136
 other_downtime: 85
 
-#######################################
+#########################################
 * pie_chart (Collection)
 
 label: "Running"
@@ -42,7 +42,7 @@ value: 10
 label: "Maintenance"
 value: 24
 
-#######################################
+#########################################
 * production_data (Collection)
 
 production1_value1: 100
@@ -50,7 +50,7 @@ production1_value2: 150
 production2_value1: 200
 production2_value2: 250
 
-#######################################
+#########################################
 * recipe_data (Collection)
 
 recipe: Object
@@ -67,7 +67,7 @@ recipe: Object
 Previous recipe: 5
 Current recipe: 23
 Next recipe: 15
-#######################################
+#########################################
 
 
 
