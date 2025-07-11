@@ -1,0 +1,49 @@
+######Postman file data #######
+
+##################################
+/post_recipe
+{
+    "Previous recipe":567,
+    "Current recipe":678,
+    "Next recipe":789
+}
+-------------------------------
+{
+    "Previous recipe":1,
+    "Current recipe":2,
+    "Next recipe":3
+}
+###################################
+/item_list
+{ 
+  "code": "WFCVGHCHGV71/0.652",
+  "value":6.96002
+}
+-------------------------------
+{ 
+  "code": "WFCVGHCHGV71/0.652",
+  "value":6.96001
+}
+###################################
+/post_production
+{
+  "production1_value1": 100,    
+  "production1_value2": 150,
+  "production2_value1": 200,
+  "production2_value2": 250
+}
+###################################
+/post_downtime
+{
+  "run_time": 300, 
+  "process_downtime": 200, 
+  "maintenance_dt": 250, 
+  "other_downtime": 150
+}
+-----------------------------------
+{
+  "run_time": 209, 
+  "process_downtime": 29, 
+  "maintenance_dt": 136, 
+  "other_downtime": 85
+}
